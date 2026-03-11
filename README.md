@@ -23,7 +23,7 @@ Heavy pocket warships:
 
 ### Changes (Superheavy)
 - New shield values were determined by taking the ratio of hull to shields for the Republic Carrier and scaling them up to the superheavy's hull.
-- All fighter bays, pocket light warshp bays, and pocket medium warship bays have been converted to heavy warship bays to reduce micromanagement. The conversation rate is as follows: 
+- All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket heavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:HEAVY = 30:1, LIGHT:HEAVY = 6:1, MEDIUM:HEAVY = 2:1
 
 ### Other Notes
 - All ships have been kitted out with top of the line outfits from different races. The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
