@@ -1,0 +1,11 @@
+name "Capital Fleet"
+about `Makes several heavily customized superheavy ships and new pocket heavy warships available for purchase at Luna, Sol.`
+version <1>
+authors
+	MustBePerfect
+tags
+	ship
+dependencies
+	"game version" <version>
+	requires
+		"Mega Freight"
