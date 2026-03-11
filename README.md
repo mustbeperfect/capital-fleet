@@ -26,6 +26,6 @@ Heavy pocket warships:
 - All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket heavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:HEAVY = 30:1, LIGHT:HEAVY = 6:1, MEDIUM:HEAVY = 2:1
 
 ### Other Notes
-- All ships have been kitted out with top of the line outfits from different races. The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
+- All ships have been kitted out with top of the line outfits from different races (except for quarg outfits cus they get all mopey about it). The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
 - The operating cost of these are insane. If you are using Dulle Griet Class pocket heavy warships, expect a total missile refill to cost around 500 million credits per superheavy 😭💀. I highly reccomend missile loadouts though as it delivers massive offensive capabilities without having to engage in close up combat.
 - Billionare won't cut it for these ships. You need to be a trillionare 😁. 
