@@ -7,7 +7,7 @@
 > This plugin is an extension of Mega Freight by 1010todd and uses assets from it.
 
 # About
-This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships and new pocket heavy warships available to purchase at Luna, Sol. 
+This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships and new pocket heavy warships available to purchase at Luna, Sol. I made this as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into one; a jack of all trades and master of all. 
 
 Superheavy warships:
 - Claymore Class
