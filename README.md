@@ -7,7 +7,7 @@
 > This plugin is an extension of Mega Freight by 1010todd and uses assets from it.
 
 # About
-This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships and new pocket heavy warships available to purchase at Luna, Sol. I made this as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into one; a jack of all trades and master of all. 
+This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships available to purchase at Luna, Sol and adds a new Pocket Superheavy Warship category along with accompanying ships. I made this as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into one; a jack of all trades and master of all. 
 
 Superheavy warships:
 - Claymore Class
@@ -17,13 +17,13 @@ Superheavy freighters:
 - K-Class
 - FG-10
 
-Heavy pocket warships:
+Supereavy pocket warships:
 - Dulle Griete Class (missile based)
 - Grose Bosche Class (turret based)
 
 ### Changes (Superheavy)
 - New shield values were determined by taking the ratio of hull to shields for the Republic Carrier and scaling them up to the superheavy's hull.
-- All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket heavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:HEAVY = 30:1, LIGHT:HEAVY = 6:1, MEDIUM:HEAVY = 2:1
+- All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket superheavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:HEAVY = 30:1, LIGHT:HEAVY = 6:1, MEDIUM:HEAVY = 2:1
 
 ### Other Notes
 - All ships have been kitted out with top of the line outfits from different races (except for quarg outfits cus they get all mopey about it). The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
