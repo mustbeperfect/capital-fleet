@@ -29,6 +29,9 @@ Superheavy pocket freighters:
 - New shield values were determined by taking the ratio of hull to shields for the Republic Carrier and scaling them up to the superheavy's hull.
 - All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket superheavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:SUPERHEAVY = 60:1, LIGHT:SUPERHEAVY = 12:1, MEDIUM:SUPERHEAVY = 4:1, HEAVY:SUPERHEAVY = 2:1
 
+### Changes (Pocket Superheavy)
+- Any pocket bays were converted to outfit space.
+
 ### Other Notes
 - All ships have been kitted out with top of the line outfits from different races (except for quarg outfits cus they get all mopey about it). The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
 - The operating cost of these are insane. If you are using Dulle Griet Class pocket heavy warships, expect a total missile refill to cost around 600 million credits per superheavy 😭💀. I highly reccomend missile loadouts though as it delivers massive offensive capabilities without having to engage in close up combat. A single Dulle Griet is able to take down a Quarg Hydra with a single missile volley.
