@@ -1,0 +1,2 @@
+planet "Hermes"
+	add shipyard "Capital Fleet Headquarters"
