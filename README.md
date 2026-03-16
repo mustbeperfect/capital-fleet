@@ -17,13 +17,16 @@ Superheavy freighters:
 - K-Class
 - FG-10
 
-Supereavy pocket warships:
+Superheavy pocket warships:
 - Dulle Griete Class (missile based)
 - Grose Bosche Class (turret based)
 
+Superheavy pocket freighters:
+- CDB-12K Saturn
+
 ### Changes (Superheavy)
 - New shield values were determined by taking the ratio of hull to shields for the Republic Carrier and scaling them up to the superheavy's hull.
-- All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket superheavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:HEAVY = 30:1, LIGHT:HEAVY = 6:1, MEDIUM:HEAVY = 2:1
+- All fighter bays, pocket light warship bays, and pocket medium warship bays have been converted to pocket superheavy warship bays to reduce micromanagement. The conversation rate is as follows: FIGHTER:SUPERHEAVY = 60:1, LIGHT:SUPERHEAVY = 12:1, MEDIUM:SUPERHEAVY = 4:1, HEAVY:SUPERHEAVY = 2:1
 
 ### Other Notes
 - All ships have been kitted out with top of the line outfits from different races (except for quarg outfits cus they get all mopey about it). The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
