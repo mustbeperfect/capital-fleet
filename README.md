@@ -23,6 +23,7 @@ Superheavy pocket warships:
 
 Superheavy pocket freighters:
 - CDB-12K Saturn
+- FG-7 Conveyer
 
 ### Changes (Superheavy)
 - New shield values were determined by taking the ratio of hull to shields for the Republic Carrier and scaling them up to the superheavy's hull.
