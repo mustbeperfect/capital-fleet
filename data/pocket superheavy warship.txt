@@ -4,7 +4,7 @@ ship "CF: Dulle Griet Class"
 	sprite "ship/mgf navy fastbattleship"
 	thumbnail "thumbnail/mgf navy fastbattleship thumb"
 	attributes
-		category "Heavy Warship"
+		category "Pocket Superheavy Warship"
 		licenses
 			"Navy Cruiser"
 		"cost" 22200000
@@ -129,7 +129,7 @@ ship "CF: Grose Bochse Class"
 	sprite "ship/mgf navy artillerybattleship"
 	thumbnail "thumbnail/mgf navy artillerybattleship thumb"
 	attributes
-		category "Heavy Warship"
+		category "Pocket Superheavy Warship"
 		licenses
 			"Navy Cruiser"
 		"cost" 22200000

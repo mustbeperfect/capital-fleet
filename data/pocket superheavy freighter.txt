@@ -2,7 +2,7 @@ ship "CF: CDB-12K Saturn"
 	sprite "ship/mgf saturn"
 	thumbnail "thumbnail/mgf saturn thumb"
 	attributes
-		category "Heavy Freighter"
+		category "Pocket Superheavy Freighter"
 		"cost" 61900000
 		"shields" 18600
 		"hull" 16400
@@ -94,7 +94,7 @@ ship "CF: FG-7 Conveyor"
 	sprite "ship/mgf conveyor"
 	thumbnail "thumbnail/mgf conveyor"
 	attributes
-		category "Heavy Freighter"
+		category "Pocket Superheavy Freighter"
 		"cost" 52200000
 		"shields" 13800
 		"hull" 13200

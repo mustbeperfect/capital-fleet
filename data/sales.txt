@@ -1,4 +1,4 @@
-shipyard: "Capital Fleet Headquarters"
+shipyard "Capital Fleet Headquarters"
     "CF: Lucerne Class"
     "CF: Claymore Class"
     "CF: FG-10 Exchanger"
