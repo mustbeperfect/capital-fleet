@@ -8,7 +8,7 @@ ship "CF: Dulle Griet Class"
 		licenses
 			"Navy Cruiser"
 		"cost" 22200000
-		"shields" 27000
+		"shields" 38150
 		"hull" 14800
 		"required crew" 260
 		"bunks" 360
@@ -133,7 +133,7 @@ ship "CF: Grose Bochse Class"
 		licenses
 			"Navy Cruiser"
 		"cost" 22200000
-		"shields" 25000
+		"shields" 41750
 		"hull" 16200
 		"required crew" 220
 		"bunks" 330
