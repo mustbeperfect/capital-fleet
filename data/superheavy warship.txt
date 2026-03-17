@@ -4,8 +4,6 @@ ship "CF: Lucerne Class"
 	thumbnail "thumbnail/mgf navy supercarrier thumb"
 	attributes
 		category "Superheavy"
-		licenses
-			"Navy Carrier"
 		"cost" 1088700000
 		"shields" 633750
 		"hull" 245800
@@ -201,8 +199,6 @@ ship "CF: Claymore Class"
 	thumbnail "thumbnail/mgf navy superbattleship thumb"
 	attributes
 		category "Superheavy"
-		licenses
-			"Navy Battleship"
 		"cost" 1288700000
 		"shields" 835375
 		"hull" 324000
