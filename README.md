@@ -7,7 +7,7 @@
 > This plugin is an extension of Mega Freight by 1010todd and uses assets from it.
 
 # About
-This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships available to purchase at Hermes, Capella (two jumps above Sol) and adds two new ship categories; Pocket Superheavy Warships and Freighters. I built this plugin as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into onel a jack of all trades and master of all.
+This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships available to purchase at Hermes, Capella (two jumps above Sol) and adds two new ship categories; Pocket Superheavy Warships and Freighters. I built this plugin as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into onel a jack of all trades and master of all. Also adds an outfitter on Hermes with relevant outfits.
 
 Superheavy warships:
 - Claymore Class
@@ -34,5 +34,5 @@ Superheavy pocket freighters:
 
 ### Other Notes
 - All ships have been kitted out with top of the line outfits from different races (except for quarg outfits cus they get all mopey about it). The superheavy warships are outfitted for offense with missiles and long range turrets to make up for their sheer size and slow speed. The superheavy freighters are outfitted for defense.
-- The operating cost of these are insane. If you are using Dulle Griet Class pocket heavy warships, expect a total missile refill to cost around 600 million credits per superheavy 😭💀. I highly reccomend missile loadouts though as it delivers massive offensive capabilities without having to engage in close up combat. A single Dulle Griet is able to take down a Quarg Hydra with a single missile volley.
-- Billionare won't cut it for these ships. You need to be a trillionare 😁. 
+- The operating cost of these are insane. If you are using Dulle Griet Class pocket heavy warships, expect a total missile refill to cost around 500 million credits per superheavy. I highly reccomend missile loadouts though as it delivers massive offensive capabilities without having to engage in close up combat. A single Dulle Griet is able to take down a Quarg Hydra with a single missile volley.
+- Billionare won't cut it for these ships. You need to be a trillionare. 
