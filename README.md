@@ -7,7 +7,7 @@
 > This plugin is an extension of Mega Freight by 1010todd and uses assets from it.
 
 # About
-This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships available to purchase at Hermes, Capella (two jumps above Sol) and adds two new ship categories; Pocket Superheavy Warships and Freighters. I built this plugin as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into onel a jack of all trades and master of all. Also adds an outfitter on Hermes with relevant outfits.
+This is a plugin for Endless Sky with the Mega Freight Plugin. It makes several heavily customized superheavy capital ships available to purchase at Hermes, Capella (two jumps above Sol) and adds two new ship categories; Pocket Superheavy Warships and Freighters. I built this plugin as I got tired of managing huge fleets of all types of ships. These superheavy's condense the capabilities of hundreds of ships into one; a jack of all trades and master of all. Also adds an outfitter on Hermes with relevant outfits.
 
 Superheavy warships:
 - Claymore Class
